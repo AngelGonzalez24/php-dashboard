@@ -1,0 +1,5 @@
+/* assets/styles.css */
+:root{ --card-radius: 1rem; }
+.card{ border-radius: var(--card-radius); }
+canvas{ max-height: 320px; }
+#map{ border-radius: var(--card-radius); }
