@@ -39,18 +39,5 @@ php -S localhost:8000
 
 ---
 
-## Autoevaluación (respuestas)
-1. **¿Qué es un sistema de coordenadas?**  
-   Conjunto de reglas para ubicar un punto mediante números llamados coordenadas (p. ej., cartesiano x–y o geográfico lat–lon).
-
-2. **Tipos de representación y ejemplo geoespacial:**  
-   Barras, líneas, pastel, áreas, dispersión, histogramas, mapas.  
-   **Geoespacial:** mapa con marcadores proporcionados por valor (Leaflet) o mapa coroplético por estados.
-
-3. **¿En qué consiste la visualización de datos?**  
-   En representar datos mediante gráficos interactivos para identificar patrones, comparar categorías y apoyar decisiones.
-
----
-
 ## Licencia
 MIT
